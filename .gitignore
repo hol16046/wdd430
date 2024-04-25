@@ -3,6 +3,12 @@
 *.sass.map
 *.scss.map
 
+
+.prettierrc
+package-lock.json
+package.json
+
+
 # Logs
 logs
 *.log
