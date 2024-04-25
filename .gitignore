@@ -3,10 +3,11 @@
 *.sass.map
 *.scss.map
 
-
+.gitattributes
 .prettierrc
 package-lock.json
 package.json
+.DS_Store
 
 
 # Logs
