@@ -5,8 +5,6 @@
 
 .gitattributes
 .prettierrc
-package-lock.json
-package.json
 .DS_Store
 
 
